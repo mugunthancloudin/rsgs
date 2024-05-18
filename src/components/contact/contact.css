@@ -1,0 +1,49 @@
+.contactBg{
+    /* background-image: url("../../assets//contact/footer-bg.webp"); */
+    background-color: rgb(19,21,25);
+    color: white;
+    /* padding: 6em; */
+}
+.sec-div{
+   
+    display: flex;
+    justify-content: space-between; 
+}
+.sub-box{
+    border-bottom: 5px solid aquamarine;
+    width: 130px;
+}
+.box2{
+    border: 1px solid rgb(32,37,47);
+    background-color: rgb(32,37,47);
+    padding: 2em;
+    border-radius: 15px;
+    font-size: x-large;
+
+}
+button{
+     background-color:rgb(39,222,200);
+     
+     font-weight: bolder;
+     font-size: large;
+     border: rgb(39,222,200);
+    
+     padding: .9rem ;
+  
+}
+.sec-div img{
+    height: 60px;
+    border-radius: 50%;
+}
+
+.contactH1{
+    margin-top: 15%;
+}
+
+.contactP{
+    margin-top: 5%;
+}
+
+.contactBtn{
+    margin-top: 5%;
+}

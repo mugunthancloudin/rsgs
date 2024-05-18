@@ -1,0 +1,34 @@
+{
+    "benifits": [
+        {
+          "id": 1,
+          "title": "Security",
+          "description":"Ensures a higher level of security for users.",
+          "icon": "./images/benifits/Security.svg"
+        },
+        {
+          "id": 2,
+          "title": "Efficiency",
+          "description": "Streamlines processes, increases overall efficiency.",
+          "icon": "./images/benifits/Efficiency.svg"
+        },
+        {
+          "id": 3,
+          "title": "Decision-making",
+          "description": "Decisions based on real-time market conditions.",
+          "icon": "./images/benifits/Decision-making.svg"
+        },
+        {
+          "id": 4,
+          "title": "Predictive Insights",
+          "description": "Insights into market trends and investment opportunities.",
+          "icon": "./images/benifits/Predictive Insights.svg"
+        },
+        {
+          "id": 5,
+          "title": "User-Friendly Interfaces",
+          "description": "Makes it easier for both novice and experienced users.",
+          "icon": "./images/benifits/User-Friendly Interfaces.svg"
+        }
+      ]
+    }

@@ -1,0 +1,37 @@
+.serviceH1{
+    position: relative;
+    color: rgb(245,245,245);
+    
+  }
+  .serviceH6{
+    position: absolute;
+    top: 25%;
+    left: 0%;
+    color: rgb(35,117,110);
+  }
+
+  .serviceTextH1{
+    font-weight: 700;
+    font-size: 80px;
+  }
+
+  .serviceTextH6{
+    font-weight: 700;
+    font-size: 40px;
+  }
+
+  .benefitsCard {
+    background-color: rgb(246,246,246);
+    transition: all 0.3s ease-in-out;
+    border: none;
+   
+  }
+  
+  .benefitsCard:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border: 1px solid #ccc;
+  }
+  
+  .benifitsBg{
+    background-color: rgb(246,246,246);
+  }

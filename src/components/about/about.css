@@ -1,0 +1,30 @@
+.aboutBg {
+  background-color: black;
+}
+
+.aboutImg {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  width: 100%;
+}
+
+.aboutRocketImg {
+    justify-content: center;
+   width: 70%;
+   /* height: 50vh !important; */
+}
+
+.aboutH1 {
+  color: white;
+  margin-top: 20%;
+}
+
+.abouth1 {
+  color: white;
+  padding-top: 2%;
+}
+
+.aboutP {
+  margin-top: 5%;
+  color: white;
+}

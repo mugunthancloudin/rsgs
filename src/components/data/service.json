@@ -1,0 +1,22 @@
+{
+    "service": [
+        {
+          "id": 1,
+          "title": "Safe Service",
+          "description": "Safe Service in cryptocurrency ensures secure transactions, reliable storage, user privacy, robust encryption, and protection against fraud and hacking, prioritizing overall security and trustworthiness.",
+          "icon": "./images/service/Safe Service.png"
+        },
+        {
+          "id": 2,
+          "title": "Fast Transfer ",
+          "description": "Fast Transfer enables swift movement of funds or assets between accounts or users, leveraging advanced technology to ensure quick, seamless transactions with minimal processing time.",
+          "icon": "./images/service/Fast Transfer.png"
+        },
+        {
+          "id": 3,
+          "title": "Secure Transfer",
+          "description": "Secure Transfer ensures encrypted, tamper-proof transmission of data or assets between parties, safeguarding against unauthorized access or interception, prioritizing confidentiality, integrity, and authentication.",
+          "icon": "./images/service/Secure Transfer.png"
+        }
+      ]
+    }
